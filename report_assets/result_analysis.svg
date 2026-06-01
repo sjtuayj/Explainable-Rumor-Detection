@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <text x="30" y="34" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">Validation Result Summary</text>
+
+  <text x="40" y="76" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#374151">Accuracy</text>
+  <line x1="40" y1="240" x2="350" y2="240" stroke="#9ca3af"/>
+  <line x1="40" y1="105" x2="40" y2="240" stroke="#9ca3af"/>
+  <text x="48" y="258" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Supervised</text>
+  <text x="205" y="258" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Hybrid</text>
+  <rect x="70" y="118" width="84" height="122" fill="#60a5fa"/>
+  <rect x="225" y="116" width="84" height="124" fill="#34d399"/>
+  <text x="80" y="109" font-family="Arial, sans-serif" font-size="13" fill="#111827">90.02%</text>
+  <text x="236" y="107" font-family="Arial, sans-serif" font-size="13" fill="#111827">90.27%</text>
+  <text x="52" y="109" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">90%</text>
+  <text x="48" y="176" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">45%</text>
+  <text x="52" y="240" font-family="Arial, sans-serif" font-size="11" fill="#6b7280">0</text>
+
+  <text x="430" y="76" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#374151">Hybrid Confusion Matrix</text>
+  <text x="520" y="105" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Pred 0</text>
+  <text x="620" y="105" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">Pred 1</text>
+  <text x="438" y="155" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">True 0</text>
+  <text x="438" y="245" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">True 1</text>
+  <rect x="510" y="120" width="88" height="78" fill="#bfdbfe" stroke="#ffffff"/>
+  <rect x="610" y="120" width="88" height="78" fill="#fee2e2" stroke="#ffffff"/>
+  <rect x="510" y="210" width="88" height="78" fill="#fee2e2" stroke="#ffffff"/>
+  <rect x="610" y="210" width="88" height="78" fill="#bbf7d0" stroke="#ffffff"/>
+  <text x="541" y="165" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">204</text>
+  <text x="646" y="165" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">22</text>
+  <text x="546" y="255" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">17</text>
+  <text x="637" y="255" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#111827">158</text>
+  <text x="517" y="318" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">LLM reviewed 4 uncertain samples; corrected 1 FP.</text>
+</svg>

@@ -1,0 +1,12 @@
+lr_model.pkl
+candidate_models/
+eval_outputs/*
+!eval_outputs/final_best_hybrid/
+!eval_outputs/final_best_hybrid/**
+.env
+.env.*
+.venv/
+best_model/model.safetensors
+__pycache__/
+*.pyc
+.DS_Store
